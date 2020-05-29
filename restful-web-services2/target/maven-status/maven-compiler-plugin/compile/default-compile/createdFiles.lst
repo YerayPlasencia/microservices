@@ -1,0 +1,16 @@
+com\in28minutes\rest\webservices\restful_web_services2\user\UserDaoService.class
+com\in28minutes\rest\webservices\restful_web_services2\SwaggerConfig.class
+com\in28minutes\rest\webservices\restful_web_services2\user\User.class
+com\in28minutes\rest\webservices\restful_web_services2\RestfulWebServicesApplication.class
+com\in28minutes\rest\webservices\restful_web_services2\filtering\FilteringController.class
+com\in28minutes\rest\webservices\restful_web_services2\user\UserResource.class
+com\in28minutes\rest\webservices\restful_web_services2\exception\CustomizedResponseEntityExceptionHandler.class
+com\in28minutes\rest\webservices\restful_web_services2\helloworld\HelloWorldController.class
+com\in28minutes\rest\webservices\restful_web_services2\helloworld\HelloWorldBean.class
+com\in28minutes\rest\webservices\restful_web_services2\versioning\PersonV1.class
+com\in28minutes\rest\webservices\restful_web_services2\filtering\SomeBean.class
+com\in28minutes\rest\webservices\restful_web_services2\versioning\Name.class
+com\in28minutes\rest\webservices\restful_web_services2\versioning\PersonVersioningController.class
+com\in28minutes\rest\webservices\restful_web_services2\exception\ExceptionResponse.class
+com\in28minutes\rest\webservices\restful_web_services2\versioning\PersonV2.class
+com\in28minutes\rest\webservices\restful_web_services2\user\UserNotFoundException.class
